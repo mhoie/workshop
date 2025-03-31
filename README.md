@@ -9,7 +9,7 @@ https://colab.research.google.com/github/mhoie/workshop/blob/main/workshop.ipynb
 
 ----
 
-# Option 2) download and run locally in Jupyter notebook
+# Option 2) Download and run locally in your favorite IDE
 ```bash
 git clone https://github.com/mhoie/workshop
 
