@@ -1,13 +1,13 @@
 # BioIT Antibody Design workshop
 ![img/diffuse.gif](img/diffuse.gif)
 
-# 1) Sign up to Biolib:
-### https://biolib.com/signup​
-
-# 2) Go to this URL:
+# 1) Go to this page:
 ### https://github.com/mhoie/workshop/
 
-# 3) Open notebobook in Google Colab:
+# 2) Sign up to Biolib:
+### https://biolib.com/signup​
+
+# 3) Open notebook in Google Colab:
 
 [![Click here to open in Google Colab Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mhoie/workshop/blob/main/workshop.ipynb)
 
