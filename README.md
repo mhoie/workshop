@@ -1,3 +1,5 @@
+# BioIT Antibody Design workshop
+![img/diffuse.gif](img/diffuse.gif)
 
 # 1) Sign up to Biolib:
 ### https://biolib.com/signup​
@@ -18,3 +20,4 @@ git clone https://github.com/mhoie/workshop
 
 # Open workshop.ipynb as a Jupyter notebook
 ```
+
