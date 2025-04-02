@@ -1,3 +1,7 @@
+BioLib workshop user:
+User: bioitworkshopuser@gmail.com
+Password: workshop
+
 # BioIT Antibody Design workshop
 ![img/diffuse.gif](img/diffuse.gif)
 
