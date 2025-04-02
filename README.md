@@ -1,6 +1,9 @@
 # BioIT Antibody Design workshop
 ![img/diffuse.gif](img/diffuse.gif)
 
+### Wi-Fi: BioIT
+### Password: BIOIT25
+
 # 1) Go to this page:
 ### https://github.com/mhoie/workshop/
 
